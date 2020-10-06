@@ -1,15 +1,23 @@
 # Valgrind Creation
-[![Build Status](https://travis-ci.org/dpiet/cpp-boilerplate.svg?branch=master)](https://travis-ci.org/dpiet/cpp-boilerplate)
-[![Coverage Status](https://coveralls.io/repos/github/dpiet/cpp-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/dpiet/cpp-boilerplate?branch=master)
+[![Build Status](https://travis-ci.org/adigoswami/Valgrind.svg?branch=master)](https://travis-ci.org/adigoswami/Valgrind)
+[![Coverage Status](https://coveralls.io/repos/github/adigoswami/Valgrind/badge.svg?branch=master)](https://coveralls.io/github/adigoswami/Valgrind?branch=master)
 ---
 
 ## Overview
 
-Simple starter C++ project with:
+Starter project to implement valgrind to ensure maintanable code
 
-- cmake
-- googletest
-
+## Standard install via command-line
+```
+git clone --recursive https://github.com/dpiet/cpp-boilerplate
+cd <path to repository>
+mkdir build
+cd build
+cmake ..
+make
+Run tests: ./test/cpp-test
+Run program: ./app/shell-app
+```
 ## Standard install via command-line
 ```
 git clone --recursive https://github.com/dpiet/cpp-boilerplate
