@@ -1,5 +1,6 @@
 # Valgrind Creation
-[![Build Status](https://travis-ci.org/adigoswami/Valgrind.svg?branch=master)](https://travis-ci.org/adigoswami/Valgrind)[![Coverage Status](https://coveralls.io/repos/github/adigoswami/Valgrind/badge.svg?branch=master)](https://coveralls.io/github/adigoswami/Valgrind?branch=master)
+[![Build Status](https://travis-ci.org/adigoswami/Valgrind.svg?branch=master)](https://travis-ci.org/adigoswami/Valgrind)
+[![Coverage Status](https://coveralls.io/repos/github/adigoswami/Valgrind/badge.svg?branch=master)](https://coveralls.io/github/adigoswami/Valgrind?branch=master)
 ---
 
 ## Overview
